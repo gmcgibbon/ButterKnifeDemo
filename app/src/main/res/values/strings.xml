@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Butter Knife Demo</string>
+    <string name="hello_text">Hello Butter Knife!</string>
+    <string name="click_button">Click Me!</string>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Gray</item>
+        <item>Cyan</item>
+        <item>Magenta</item>
+        <item>Yellow</item>
+    </string-array>
+
+</resources>
